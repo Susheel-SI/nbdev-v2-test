@@ -17,7 +17,14 @@ pip install nbdev_v2_test
 Fill me in please! Don’t forget code examples:
 
 ``` python
-1+1
+pip install nbdev_v2_test
 ```
 
-    2
+    Requirement already satisfied: nbdev_v2_test in /Users/Susheel/Documents/Python_Files/nbdev-v2-test (0.0.1)
+    Note: you may need to restart the kernel to use updated packages.
+
+``` python
+say_hello("Isaac")
+```
+
+    'Hello Isaac!'
