@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-v2-test"
+  site-url: "https://Susheel-SI.github.io/nbdev-v2-test"
+  description: "Following Tutorial for nbdev v2 from https://nbdev.fast.ai/tutorials/tutorial.html"
+  repo-branch: master
+  repo-url: "https://github.com/Susheel-SI/nbdev-v2-test"
