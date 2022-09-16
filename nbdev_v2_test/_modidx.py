@@ -5,4 +5,5 @@ d = { 'settings': { 'branch': 'master',
                 'doc_host': 'https://Susheel-SI.github.io',
                 'git_url': 'https://github.com/Susheel-SI/nbdev-v2-test',
                 'lib_path': 'nbdev_v2_test'},
-  'syms': {'nbdev_v2_test.core': {'nbdev_v2_test.core.foo': ('core.html#foo', 'nbdev_v2_test/core.py')}}}
+  'syms': { 'nbdev_v2_test.core': {'nbdev_v2_test.core.foo': ('core.html#foo', 'nbdev_v2_test/core.py')},
+            'nbdev_v2_test.susheel': {'nbdev_v2_test.susheel.say_hello': ('susheel.html#say_hello', 'nbdev_v2_test/susheel.py')}}}
