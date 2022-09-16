@@ -1,0 +1,30 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-v2-test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation."
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-v2-test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_v2_test"
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-v2-test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\npip install nbdev_v2_test\n\nRequirement already satisfied: nbdev_v2_test in /Users/Susheel/Documents/Python_Files/nbdev-v2-test (0.0.1)\nNote: you may need to restart the kernel to use updated packages.\n\n\n\nsay_hello(\"Isaac\")\n\n'Hello Isaac!'"
+  },
+  {
+    "objectID": "susheel.html",
+    "href": "susheel.html",
+    "title": "Susheel nbdev Test",
+    "section": "",
+    "text": "source\n\nsay_hello\n\n say_hello (to)\n\nSay hello to somebody\n\nfrom fastcore.test import *\ntest_eq(say_hello(\"Susheel\"), \"Hello Susheel!\")\n\n\nfrom IPython.display import display,SVG\ndisplay(SVG('<svg height=\"100\" xmlns=\"http://www.w3.org/2000/svg\"><circle cx=\"50\" cy=\"50\" r=\"40\"/></svg>'))"
+  }
+]
